@@ -1,0 +1,11 @@
+{
+  "name": "gigih-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ridho9/gigih-git.git",
+  "author": "Ridho Pratama <p.ridho@yahoo.co.id>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo test"
+  }
+}
